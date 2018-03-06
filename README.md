@@ -1,5 +1,6 @@
-# super-computing-machine
+
 retreive from: http://www.cplusplus.com/forum/beginner/43868/
+
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
@@ -29,5 +30,6 @@ int main() {
     cin >> x;
     
     return 0;
+}
     
 
